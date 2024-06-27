@@ -1,4 +1,4 @@
-# Proyecto Integrado: Optimización de Gastos de Marketing para Y.Afisha
+# SPRINT 8: Optimización de Gastos de Marketing para Y.Afisha
 
 ## Descripción del Proyecto
 
